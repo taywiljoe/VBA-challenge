@@ -1,5 +1,5 @@
 # VBA-challenge
-Module 2
+
 I worked with a TA on this code. I initally wrote 
 
 'opendt = WorksheetFunction.Min(Range("B:B"))
